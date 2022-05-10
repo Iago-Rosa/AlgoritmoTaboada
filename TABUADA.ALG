@@ -3,7 +3,7 @@ Algoritmo "Tabuada"
 
 
 Var
-         nome: caracter
+         nome: caracter 
          i, numero, mult: inteiro
          
          
@@ -11,9 +11,9 @@ Var
 Inicio
 
 
-          Escreva("Ol· qual seu nome: ")
+          Escreva("Ol√° qual seu nome: ")
           Leia(nome)
-          Escreval("Ol· ",nome," vamos a sua tabuada")
+          Escreval("Ol√° ",nome," vamos a sua tabuada")
           Escreva(nome," escolha um numero de 1 a 10: ")
           Leia(numero)
 
