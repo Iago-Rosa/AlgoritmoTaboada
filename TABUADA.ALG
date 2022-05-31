@@ -15,7 +15,7 @@ Inicio
           Leia(nome)
           Escreval("Olá ",nome," vamos a sua tabuada")
           Escreva(nome," escolha um numero de 1 a 10: ")
-          Leia(numero)
+          Leia(numero) 
 
           Para i de 1 ate 10 passo 1 faca
           
